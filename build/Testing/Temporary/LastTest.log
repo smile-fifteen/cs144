@@ -1,0 +1,19 @@
+Start testing: Apr 10 16:02 CST
+----------------------------------------------------------
+31/164 Testing: t_webget
+31/164 Test: t_webget
+Command: "/home/smile/cpp/cs144/sponge/tests/webget_t.sh"
+Directory: /home/smile/cpp/cs144/sponge/build
+"t_webget" start time: Apr 10 16:02 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 104.196.238.229:80...
+<end of output>
+Test time =  10.01 sec
+----------------------------------------------------------
+Test Failed.
+"t_webget" end time: Apr 10 16:02 CST
+"t_webget" time elapsed: 00:00:10
+----------------------------------------------------------
+
+End testing: Apr 10 16:02 CST
